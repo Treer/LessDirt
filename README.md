@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/wiki/treer/amidstest/screenshots/150px-Minetest-logo.png" align="right" />
+
 # Less Dirt texturepack for Minetest
 
 Adjusts textures such that blocks of grass etc. have less bare dirt on the sides
