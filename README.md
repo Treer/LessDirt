@@ -2,9 +2,9 @@
 
 # Less Dirt texturepack for Minetest
 
-Extends the grass growth on the side of blocks so that rolling hills show less exposed bare dirt. Also does the same for snow, forest litter, moss, etc.
+Extends the grass growth on the side of blocks so rolling hills show less exposed bare dirt. Also does the same for snow, forest litter, moss, etc.
 
-This is a similiar concept to [Landscape redo](https://forum.minetest.net/viewtopic.php?t=20032) but doesn't alter nodes.
+This improves screenshots in a similar fashion to [Landscape redo](https://forum.minetest.net/viewtopic.php?t=20032) but doesn't alter nodes.
 
 Removes a piece of Minecraft's legacy that Minecraft might not have gotten right. Currently it only has the Minetest Game textures in it, but others could be added.
 
