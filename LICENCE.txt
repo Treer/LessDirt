@@ -1,0 +1,27 @@
+Less Dirt texture pack
+~~~~~~~~~~~~~~~~~~~~~~
+
+The textures in this pack are modified versions of textures from Minetest Game
+https://github.com/minetest/minetest_game/blob/master/mods/default/README.txt
+
+Which is Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+The authors of Minetest Game textures:
+
+paramat (CC BY-SA 3.0):
+  default_dry_grass_side.png
+  default_grass_side.png
+  default_stones_side.png -- Derived from a texture by sofar (CC0 1.0)
+  default_moss_side.png
+
+TumeniNodes (CC BY-SA 3.0):
+  default_coniferous_litter_side.png
+  
+Gambit (CC BY-SA 3.0):
+  default_snow_side.png  
+  
+npx (CC BY-SA 3.0):
+  default_rainforest_litter.png
+  default_rainforest_litter_side.png
