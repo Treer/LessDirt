@@ -6,7 +6,7 @@ Extends the grass growth on the side of blocks so rolling hills show less expose
 
 This improves screenshots in a similar fashion to [Landscape redo](https://forum.minetest.net/viewtopic.php?t=20032) but doesn't alter nodes.
 
-Removes a piece of Minecraft's legacy that Minecraft might not have gotten right. Currently it only has the Minetest Game textures in it, but others could be added.
+Removes a piece of Minecraft's legacy that Notch might not have gotten right. Currently it only has the Minetest Game textures in it, but others could be added.
 
 **Forum:** [Link](https://forum.minetest.net/viewtopic.php?f=4&t=22362)
 
