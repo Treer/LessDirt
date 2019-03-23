@@ -1,7 +1,7 @@
 Less Dirt texture pack
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Minetest Game textures in this pack are modified versions of textures from Minetest Game
+Textures in /default/ are modified versions of textures from Minetest Game
 https://github.com/minetest/minetest_game/blob/master/mods/default/README.txt
 
 Which is Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
@@ -29,7 +29,7 @@ npx (CC BY-SA 3.0):
 
   
   
-The MineClone 2 textures in this pack are modified versions of textures from MineClone 2
+Textures in /mcl_core/ are modified versions of textures from MineClone 2
 https://repo.or.cz/MineClone/MineClone2.git
 
 MineClone2 uses textures from Pixel-Perfection by Hugh "XSSheep" Rutland, converted to Minetest by sofar.
@@ -41,7 +41,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 
 
-The Ethereal textures in this pack are modified versions of textures from Ethereal
+Textures in /ethereal/ are modified versions of textures from Ethereal
 https://notabug.org/TenPlus1/ethereal.git
 
 Ethereal is by TenPlus1 and MIT licensed:
