@@ -25,3 +25,13 @@ Gambit (CC BY-SA 3.0):
 npx (CC BY-SA 3.0):
   default_rainforest_litter.png
   default_rainforest_litter_side.png
+
+  
+  
+The MineClone 2 textures in this pack are modified versions of textures from MineClone 2
+https://repo.or.cz/MineClone/MineClone2.git
+
+MineClone2 uses textures from Pixel-Perfection by Hugh "XSSheep" Rutland, converted to Minetest by sofar.
+
+Pixel-Perfection is Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
