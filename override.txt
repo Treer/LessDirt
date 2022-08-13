@@ -1,3 +1,4 @@
 mcl_core:dirt_with_grass_snow top mcldefault_snow.png
 mcl_core:mycelium_snow top mcldefault_snow.png
 mcl_core:podzol_snow top mcldefault_snow.png
+default:dirt_with_snow top mtgdefault_snow.png
