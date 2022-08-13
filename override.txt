@@ -1,2 +1,0 @@
-mcl_core:dirt_with_grass sides default_dirt.png^mcldefault_grass_side.png
-mcl_core:dirt_with_dry_grass sides default_dirt.png^mcldefault_dry_grass_side.png

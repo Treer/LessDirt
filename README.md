@@ -8,7 +8,9 @@ Removes a piece of Minecraft's legacy that Notch might not have gotten right.
 
 Works with:
 * Minetest Game
+* MeseCraft
 * MineClone 2
+* MineClone 5
 * Ethereal
 * Pull requests adding support for more games are welcome. Just remember to include attributions in LICENCE.txt in the pull request.
 
